@@ -1,5 +1,8 @@
 # furniturestore
 
+# About project
+My second Vue app is a web application for online furniture sale
+
 ## Project setup
 ```
 npm install
