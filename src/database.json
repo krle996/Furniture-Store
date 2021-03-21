@@ -1,0 +1,554 @@
+{
+  "dnevna_soba" : {
+    "fotelje" : {
+      "id1" : {
+        "id" : 5006,
+        "img" : "barselona.jpg",
+        "price" : 19990,
+        "title" : "barcelona"
+      },
+      "id2" : {
+        "id" : 5010,
+        "img" : "coco.jpg",
+        "price" : 17990,
+        "title" : "coco"
+      },
+      "id3" : {
+        "id" : 5018,
+        "img" : "como.jpg",
+        "price" : 16990,
+        "title" : "como"
+      },
+      "id4" : {
+        "id" : 5078,
+        "img" : "dionis.jpg",
+        "price" : 23990,
+        "title" : "dionis"
+      },
+      "id5" : {
+        "id" : 5065,
+        "img" : "pleasure.jpg",
+        "price" : 27990,
+        "title" : "pleasure"
+      },
+      "id6" : {
+        "id" : 5036,
+        "img" : "new-york.jpg",
+        "price" : 21990,
+        "title" : "new york"
+      },
+      "id7" : {
+        "id" : 5058,
+        "img" : "zurich.jpg",
+        "price" : 20990,
+        "title" : "zurich"
+      }
+    },
+    "ležajevi" : {
+      "id1" : {
+        "id" : 4013,
+        "img" : "aurora.jpg",
+        "price" : 46990,
+        "title" : "aurora"
+      },
+      "id2" : {
+        "id" : 4094,
+        "img" : "bologna.jpg",
+        "price" : 49.78,
+        "title" : "bologna"
+      },
+      "id3" : {
+        "id" : 4005,
+        "img" : "dorian.jpg",
+        "price" : 54990,
+        "title" : "dorian"
+      },
+      "id4" : {
+        "id" : 4087,
+        "img" : "doris.jpg",
+        "price" : 55990,
+        "title" : "doris"
+      },
+      "id5" : {
+        "id" : 4028,
+        "img" : "lux.jpg",
+        "price" : 48990,
+        "title" : "lux"
+      },
+      "id6" : {
+        "id" : 4001,
+        "img" : "tunis.jpg",
+        "price" : 52990,
+        "title" : "tunis"
+      }
+    },
+    "regali" : {
+      "id1" : {
+        "id" : 1012,
+        "img" : "big-bang.jpg",
+        "price" : 26990,
+        "title" : "big bang"
+      },
+      "id2" : {
+        "id" : 1036,
+        "img" : "enter.jpg",
+        "price" : 33990,
+        "title" : "enter"
+      },
+      "id3" : {
+        "id" : 1089,
+        "img" : "evergreen.jpg",
+        "price" : 28990,
+        "title" : "evergreen"
+      },
+      "id4" : {
+        "id" : 1024,
+        "img" : "heron.jpg",
+        "price" : 21990,
+        "title" : "heron"
+      },
+      "id5" : {
+        "id" : 1077,
+        "img" : "kardigan.jpg",
+        "price" : 29990,
+        "title" : "kardigan"
+      },
+      "id6" : {
+        "id" : 1093,
+        "img" : "rondo.jpg",
+        "price" : 24990,
+        "title" : "rondo"
+      }
+    },
+    "tv_komode" : {
+      "id1" : {
+        "id" : 2002,
+        "img" : "capital.jpg",
+        "price" : 9790,
+        "title" : "capital"
+      },
+      "id2" : {
+        "id" : 2023,
+        "img" : "daiquiri.jpg",
+        "price" : 13790,
+        "title" : "daiquiri"
+      },
+      "id3" : {
+        "id" : 2039,
+        "img" : "linea.jpg",
+        "price" : 11990,
+        "title" : "linea"
+      },
+      "id4" : {
+        "id" : 2017,
+        "img" : "match.jpg",
+        "price" : 8990,
+        "title" : "match"
+      },
+      "id5" : {
+        "id" : 2068,
+        "img" : "orlando.jpg",
+        "price" : 10790,
+        "title" : "orlando"
+      },
+      "id6" : {
+        "id" : 2002,
+        "img" : "rela.jpg",
+        "price" : 8620,
+        "title" : "rela"
+      }
+    },
+    "ugaone_garniture" : {
+      "id1" : {
+        "id" : 3054,
+        "img" : "brugge.jpg",
+        "price" : 34990,
+        "title" : "brugge"
+      },
+      "id2" : {
+        "id" : 3026,
+        "img" : "natura.jpg",
+        "price" : 47990,
+        "title" : "natura"
+      },
+      "id3" : {
+        "id" : 3022,
+        "img" : "viktoria.jpg",
+        "price" : 110990,
+        "title" : "viktoria"
+      },
+      "id4" : {
+        "id" : 3017,
+        "img" : "tara.jpg",
+        "price" : 99720,
+        "title" : "tara"
+      },
+      "id5" : {
+        "id" : 3091,
+        "img" : "verona.jpg",
+        "price" : 44990,
+        "title" : "verona"
+      }
+    }
+  },
+  "kancelarija" : {
+    "kancelarijske_stolice" : {
+      "id1" : {
+        "id" : 13031,
+        "img" : "arma.jpg",
+        "price" : 4260,
+        "title" : "arma"
+      },
+      "id2" : {
+        "id" : 13031,
+        "img" : "ekom.jpg",
+        "price" : 5990,
+        "title" : "ekom"
+      },
+      "id3" : {
+        "id" : 13031,
+        "img" : "fia.jpg",
+        "price" : 8990,
+        "title" : "fia"
+      },
+      "id4" : {
+        "id" : 13031,
+        "img" : "nfo.jpg",
+        "price" : 5240,
+        "title" : "nfo"
+      },
+      "id5" : {
+        "id" : 13031,
+        "img" : "nora.jpg",
+        "price" : 7990,
+        "title" : "nora"
+      },
+      "id6" : {
+        "id" : 13031,
+        "img" : "ozi.jpg",
+        "price" : 5790,
+        "title" : "ozi"
+      }
+    },
+    "kancelarijski_stolovi" : {
+      "id1" : {
+        "id" : 12044,
+        "img" : "arhimed.jpg",
+        "price" : 12990,
+        "title" : "arhimed"
+      },
+      "id2" : {
+        "id" : 12026,
+        "img" : "elan.jpg",
+        "price" : 8990,
+        "title" : "elan"
+      },
+      "id3" : {
+        "id" : 12071,
+        "img" : "leo.jpg",
+        "price" : 4990,
+        "title" : "leo"
+      },
+      "id4" : {
+        "id" : 12017,
+        "img" : "liber.jpg",
+        "price" : 6990,
+        "title" : "liber"
+      },
+      "id5" : {
+        "id" : 12091,
+        "img" : "primus.jpg",
+        "price" : 5720,
+        "title" : "primus"
+      },
+      "id6" : {
+        "id" : 12019,
+        "img" : "rey.jpg",
+        "price" : 3990,
+        "title" : "rey"
+      },
+      "id7" : {
+        "id" : 12031,
+        "img" : "tales.jpg",
+        "price" : 5990,
+        "title" : "tales"
+      }
+    }
+  },
+  "kuhinja" : {
+    "id1" : {
+      "id" : 9001,
+      "img" : "highline.jpg",
+      "price" : 139990,
+      "title" : "highline"
+    },
+    "id2" : {
+      "id" : 9054,
+      "img" : "lara.jpg",
+      "price" : 56990,
+      "title" : "lara"
+    },
+    "id3" : {
+      "id" : 9052,
+      "img" : "modern.jpg",
+      "price" : 83990,
+      "title" : "modern"
+    },
+    "id4" : {
+      "id" : 9023,
+      "img" : "riva.jpg",
+      "price" : 75990,
+      "title" : "riva"
+    }
+  },
+  "ponuda" : {
+    "id1" : {
+      "id" : 4094,
+      "img" : "bologna.jpg",
+      "price" : 49780,
+      "title" : "bologna"
+    },
+    "id2" : {
+      "id" : 3054,
+      "img" : "brugge.jpg",
+      "price" : 34990,
+      "title" : "brugge"
+    },
+    "id3" : {
+      "id" : 12026,
+      "img" : "elan.jpg",
+      "price" : 8990,
+      "title" : "elan"
+    },
+    "id4" : {
+      "id" : 11039,
+      "img" : "sofia.jpg",
+      "price" : 3990,
+      "title" : "sofia"
+    }
+  },
+  "spavaća_soba" : {
+    "komode" : {
+      "id1" : {
+        "id" : 8011,
+        "img" : "dorme.jpg",
+        "price" : 9580,
+        "title" : "dorme"
+      },
+      "id2" : {
+        "id" : 8017,
+        "img" : "imago.jpg",
+        "price" : 13990,
+        "title" : "imago"
+      },
+      "id3" : {
+        "id" : 8028,
+        "img" : "kentaki.jpg",
+        "price" : 8720,
+        "title" : "kentucky"
+      },
+      "id4" : {
+        "id" : 8031,
+        "img" : "lino.jpg",
+        "price" : 10280,
+        "title" : "lino"
+      },
+      "id5" : {
+        "id" : 8075,
+        "img" : "samba.jpg",
+        "price" : 14880,
+        "title" : "samba"
+      }
+    },
+    "kreveti" : {
+      "id1" : {
+        "id" : 6032,
+        "img" : "astor.jpg",
+        "price" : 20390,
+        "title" : "astor"
+      },
+      "id2" : {
+        "id" : 6007,
+        "img" : "bon.jpg",
+        "price" : 21990,
+        "title" : "bon"
+      },
+      "id3" : {
+        "id" : 6051,
+        "img" : "honey.jpg",
+        "price" : 29590,
+        "title" : "honey"
+      },
+      "id4" : {
+        "id" : 6076,
+        "img" : "dreamer.jpg",
+        "price" : 9990,
+        "title" : "dreamer"
+      },
+      "id5" : {
+        "id" : 6023,
+        "img" : "magi.jpg",
+        "price" : 34990,
+        "title" : "magi"
+      },
+      "id6" : {
+        "id" : 6098,
+        "img" : "neo.jpg",
+        "price" : 30420,
+        "title" : "neo"
+      },
+      "id7" : {
+        "id" : 6051,
+        "img" : "single.jpg",
+        "price" : 10990,
+        "title" : "single"
+      },
+      "id8" : {
+        "id" : 6040,
+        "img" : "joy.jpg",
+        "price" : 11990,
+        "title" : "joy"
+      },
+      "id9" : {
+        "id" : 6014,
+        "img" : "violet.jpg",
+        "price" : 19890,
+        "title" : "mondo"
+      }
+    },
+    "ormari" : {
+      "id1" : {
+        "id" : 7023,
+        "img" : "alexander.jpg",
+        "price" : 28280,
+        "title" : "alexander"
+      },
+      "id2" : {
+        "id" : 7052,
+        "img" : "bonnie.jpg",
+        "price" : 20450,
+        "title" : "bonnie"
+      },
+      "id3" : {
+        "id" : 7005,
+        "img" : "dallas.jpg",
+        "price" : 15320,
+        "title" : "dallas"
+      },
+      "id4" : {
+        "id" : 7013,
+        "img" : "flamingo.jpg",
+        "price" : 33990,
+        "title" : "flamingo"
+      },
+      "id5" : {
+        "id" : 7036,
+        "img" : "king.jpg",
+        "price" : 37590,
+        "title" : "king"
+      },
+      "id6" : {
+        "id" : 7071,
+        "img" : "maxwel.jpg",
+        "price" : 18760,
+        "title" : "maxwel"
+      },
+      "id7" : {
+        "id" : 7099,
+        "img" : "numero.jpg",
+        "price" : 41990,
+        "title" : "numero"
+      },
+      "id8" : {
+        "id" : 7037,
+        "img" : "piano.jpg",
+        "price" : 30580,
+        "title" : "piano"
+      }
+    }
+  },
+  "trpezarija" : {
+    "trpezarijske_stolice" : {
+      "id1" : {
+        "id" : 11016,
+        "img" : "apolon.jpg",
+        "price" : 4990,
+        "title" : "apolon"
+      },
+      "id2" : {
+        "id" : 11065,
+        "img" : "braga.jpg",
+        "price" : 6990,
+        "title" : "braga"
+      },
+      "id3" : {
+        "id" : 11019,
+        "img" : "iveks.jpg",
+        "price" : 5990,
+        "title" : "iveks"
+      },
+      "id4" : {
+        "id" : 11025,
+        "img" : "lea.jpg",
+        "price" : 5720,
+        "title" : "lea"
+      },
+      "id5" : {
+        "id" : 11086,
+        "img" : "modena.jpg",
+        "price" : 4680,
+        "title" : "modena"
+      },
+      "id6" : {
+        "id" : 11051,
+        "img" : "monte.jpg",
+        "price" : 6990,
+        "title" : "monte"
+      },
+      "id7" : {
+        "id" : 11039,
+        "img" : "sofia.jpg",
+        "price" : 3990,
+        "title" : "sofia"
+      },
+      "id8" : {
+        "id" : 11091,
+        "img" : "vegas.jpg",
+        "price" : 4990,
+        "title" : "vegas"
+      }
+    },
+    "trpezarijski_stolovi" : {
+      "id1" : {
+        "id" : 10038,
+        "img" : "atlas.jpg",
+        "price" : 12990,
+        "title" : "atlas"
+      },
+      "id2" : {
+        "id" : 10011,
+        "img" : "delux.jpg",
+        "price" : 29990,
+        "title" : "delux"
+      },
+      "id3" : {
+        "id" : 10076,
+        "img" : "pino.jpg",
+        "price" : 15990,
+        "title" : "pino"
+      },
+      "id4" : {
+        "id" : 10033,
+        "img" : "sara.jpg",
+        "price" : 14990,
+        "title" : "sara"
+      },
+      "id5" : {
+        "id" : 10016,
+        "img" : "vito.jpg",
+        "price" : 10990,
+        "title" : "vito"
+      }
+    }
+  }
+}
